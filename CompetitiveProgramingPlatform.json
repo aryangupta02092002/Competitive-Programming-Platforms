@@ -146,4 +146,11 @@
     "Interviev_prepations": "advanced",
     "websitelink": "https://workat.tech/"
   },
+  {
+        "id":20,
+        "Website":"CSES", 
+        "level":"Hard",
+        "interview_preparations":"Hard",
+        "website_link":"https://cses.fi/problemset/"
+    }
 ]
