@@ -276,5 +276,12 @@
         "interview_preparations":"Begineer",
         "website_link":"https://www.topcoder.com/challenges"
          
+    },
+    {
+        "id":28,
+        "Website":"CSES", 
+        "level":"Hard",
+        "interview_preparations":"Hard",
+        "website_link":"https://cses.fi/problemset/"
     }
 ]
